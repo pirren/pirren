@@ -1,6 +1,6 @@
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=pirren&layout=compact&hide_border=true&hide_rank=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pirren&show_icons=true&theme=radical&hide_border=true&hide_rank=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=pirren&layout=compact&hide_border=true&card_width=250" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pirren&layout=compact&show_icons=true&theme=radical&hide_border=true&card_width=300" />
 </p>
 <!--
 **pirren/pirren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
