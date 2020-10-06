@@ -1,7 +1,5 @@
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=pirren&layout=compact&hide_border=true&card_width=250" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pirren&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&card_width=300" />
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=pirren&layout=compact&hide_border=true&card_width=250" />
+
 <!--
 **pirren/pirren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
