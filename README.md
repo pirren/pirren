@@ -1,6 +1,6 @@
-<h3 align="center"><s>pirren.dev</s><h3>
+<h3 align="center"><s>pirren.dev</s></h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=pirren&layout=compact&hide_border=true&card_width=250" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=pirren&layout=compact&hide_border=true&card_width=250" />
 
 🌱 Grejar för närvarande på min WorklogApp för att skriva dagliga personliga inlägg
 
