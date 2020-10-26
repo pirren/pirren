@@ -2,7 +2,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=pirren&layout=compact&hide_border=true&card_width=250" />
 
-🌱 Grejar för närvarande på min WorklogApp för att skriva dagliga personliga inlägg
+🌱 Grejar för närvarande på min WorklogApp
 
 Jag kollade färdigt på Better Call Saul... Vad ska jag göra härnäst 🤔
 <!--
