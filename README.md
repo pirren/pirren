@@ -5,8 +5,6 @@
 🌱 Grejar för närvarande på [Trevette](https://github.com/pirren/TrevetteApp)
 
 👯 Praktiserar på [Else](https://else.se/)
-
-🤔
 <!--
 **pirren/pirren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
