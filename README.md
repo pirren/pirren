@@ -2,7 +2,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=pirren&layout=compact&hide_border=true&card_width=250" />
 
-🌱 Grejar för närvarande på [Trevette](https://github.com/pirren/TrevetteApp)
+🌱 Grejar för närvarande på [min portfolio](https://github.com/pirren/PortfolioSite)
 
 👯 Praktiserar på [Else](https://else.se/)
 <!--
