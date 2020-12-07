@@ -1,8 +1,17 @@
-<h3 align="center"><s>pirren.dev</s></h3>
+<h2><b>Cheers, I am Pierre!</b></h2>
+<img width="35%" height="35%" align="right" src="bg-apps-shapes.svg">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=pirren&layout=compact&hide_border=true&card_width=250" />
+You have reached a full stack .NET developer and long time hobby web designer living in Sweden. 
 
-🌱 Grejar för närvarande på [advent of code](https://github.com/pirren/adventofcode2020)
+I have created websites for organizations and business owners such as rentpersonligt, and am currently interning for Else in Gothenburg. 
+
+Here is a list of my favorite tools: 
+ - Terminal
+ - VS Code & VS
+ - Inkscape
+ - GitHub
+
+🌱 Struggling on [advent of code](https://github.com/pirren/adventofcode2020
 <!--
 **pirren/pirren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=pirren&layout=compact&hide_border=true&card_width=250" /> -->
