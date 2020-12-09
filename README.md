@@ -11,7 +11,7 @@ Here is a list of my favorite tools:
  - Inkscape
  - GitHub
 
-🌱 Struggling on [advent of code](https://github.com/pirren/adventofcode2020)
+🌱 Struggling on [advent of code 8/25](https://github.com/pirren/adventofcode2020)
 
 <!--
 **pirren/pirren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
