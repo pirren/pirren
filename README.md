@@ -1,7 +1,7 @@
 <h2><b>Cheers, I am Pierre!</b></h2>
 <img width="35%" height="35%" align="right" src="bg-apps-shapes.svg">
 
-You have reached a .NET developer and long time hobby web designer living in Sweden. 
+A .NET developer and long time hobby web designer living in Sweden. 
 
 I have created websites for organizations and business owners such as rentpersonligt, and am currently interning for Else in Gothenburg. 
 
@@ -11,9 +11,10 @@ Here is a list of my favorite tools:
  - Inkscape
  - GitHub
 
-🌱 Latest seen working on [advent of code 10/25](https://github.com/pirren/adventofcode2020)
 
 <!--
+🌱 Working on [advent of code 10/25](https://github.com/pirren/adventofcode2020)
+
 **pirren/pirren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
