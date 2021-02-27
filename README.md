@@ -5,7 +5,7 @@ A .NET developer and long time hobby web designer living in Sweden.
 
 I have created websites for organizations and business owners such as rentpersonligt, and am currently interning for Else in Gothenburg. 
 
-Here is a list of my favorite tools: 
+Have a list of favorite tools: 
  - Terminal
  - VS Code & VS
  - Inkscape
