@@ -1,16 +1,14 @@
-<h2><b>Cheers, I am Pierre!</b></h2>
-<img width="35%" height="35%" align="right" src="bg-apps-shapes.svg">
 
-A .NET developer and long time hobby web designer living in Sweden. 
+<img width="25%" height="25%" align="right" src="bg-apps-shapes.svg">
+<h3><b>Hej hej</b></h3>
 
-I have created websites for organizations and business owners such as rentpersonligt, and am currently interning for Else in Gothenburg. 
+Här en snygg bild och en lista på mina favoritverktyg
 
-Have a list of favorite tools: 
  - Terminal
- - VS Code & VS
- - Inkscape
+ - VS
  - GitHub
 
+Jag jobbar på hobbyprojekt till höger och vänster och praktiserar på Else i Göteborg. 
 
 <!--
 🌱 Working on [advent of code 10/25](https://github.com/pirren/adventofcode2020)
