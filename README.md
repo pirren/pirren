@@ -1,8 +1,6 @@
-
 <img width="25%" height="25%" align="right" src="bg-apps-shapes.svg">
-<h3><b>Hej hej</b></h3>
 
-Här en snygg bild och en lista på mina favoritverktyg
+Här en snygg bild på datorfönster och en lista på mina favoritverktyg
 
  - Terminal
  - VS
