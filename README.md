@@ -1,12 +1,6 @@
 <img width="25%" height="25%" align="right" src="bg-apps-shapes.svg">
 
-Här en snygg bild på datorfönster och en lista på mina favoritverktyg
-
- - Terminal
- - VS
- - GitHub
-
-Jag jobbar på hobbyprojekt till höger och vänster och praktiserar på Else i Göteborg. 
+// todo: innehåll
 
 <!--
 🌱 Working on [advent of code 10/25](https://github.com/pirren/adventofcode2020)
